@@ -1,4 +1,4 @@
-document.getElementById("act").style.display = "none";
+document.getElementById("act").style.display = "none"; //oculatar boton actualizar
 var myArrayArtculo = [];
 objart={
     cod:10,
