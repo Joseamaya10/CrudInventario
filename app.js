@@ -84,7 +84,7 @@ function eliminar(pos){
 }
 
 function comprobarLocalStorage(){
-    if(localStorage.getItem"ArregloArticulo") != null{
+    if(localStorage.getItem("ArregloArticulo") != null){
         
     }
 }
